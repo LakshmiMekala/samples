@@ -1,0 +1,4 @@
+[submodule "wiki-testbranch"]
+	path = wiki-testbranch
+	url = https://github.com/LakshmiMekala/samples.wiki.git
+	branch = wiki-testbranch
